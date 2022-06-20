@@ -2,7 +2,6 @@
 
 Sample datasets hand-picked by Maven instructors for practicing data analysis and visualization skills to real-world data.
 ## Airline Passenger Satisfaction
-
 ## Scenario
 Customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as ther evaluation of different factors like cleanliness, comfort, service, and overall experience.
 ## Recommended Analysis
