@@ -19,9 +19,9 @@ Recommended Analysis
 ### Recomendation & Assumption
 
 * 1.Bud Light has the most super bowl commecials by having 62 super bowl ads link
-* - There distinct style is to create ads with a short time making it possible for them to spend less money on each ads at they can create more ads.
+ There distinct style is to create ads with a short time making it possible for them to spend less money on each ads at they can create more ads.
 * 2.There are youtube viewers in 2012 leading to more youtube likes in 2012 and this could be as a result of have more ads created in 2012 as it shows that in 2009,2012,2013 and 2019, 15 ads were created each in those years.
-* The number of tv viewers rally up from 2000 till 2014 and dropped significantly from 2014 to 2021 making 2014 the years of highest Tv views.
+The number of tv viewers rally up from 2000 till 2014 and dropped significantly from 2014 to 2021 making 2014 the years of highest Tv views.
 * 3.The most succesful comercial on Youtube is **Doritos** as their ads is very funny (most funny brand in creatings ads) and also their ads shows the products they are advertising quickly without wasting viewers time (Doritos ads are very short)
 * 4.Ads length and ads view is the most paired characteristics
 
