@@ -1,4 +1,4 @@
-# [Mavin-Analytics-Challenge}(Latsan/Mavin-Airline-challenge)
+# [Mavin-Analytics-Challenge}(https://latsan.github.io/Mavin-Analytics-Challenge/)
 Sample datasets hand-picked by Maven instructors for practicing data analysis and visualization skills to real-world data.
 Airline Passenger Satisfaction
 
