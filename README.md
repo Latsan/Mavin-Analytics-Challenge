@@ -1,7 +1,13 @@
 # [Mavin-Analytics-Challenge-by-Abdulateef-Sanni](https://latsan.github.io/Mavin-Analytics-Challenge-by-Abdulateef-Sanni/)
 
 Sample datasets hand-picked by Maven instructors for practicing data analysis and visualization skills to real-world data.
-## Airline Passenger Satisfaction
+
+# Case Study 1
+## Super Bowl commercials
+
+![](superbowl.png)
+
+## Case Studay 2 Airline Passenger Satisfaction
 ## Scenario
 Customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as ther evaluation of different factors like cleanliness, comfort, service, and overall experience.
 
@@ -11,7 +17,7 @@ Customer satisfaction scores from 120,000+ airline passengers, including additio
    
 ### Intro
    
-The data is a public data gotten from Maven Analytics Airlines Challenge which consists of customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as their evaluation of different factors like cleanliness, comfort, service, and overall experience.
+ * The data is a public data gotten from Maven Analytics Airlines Challenge which consists of customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as their evaluation of different factors like cleanliness, comfort, service, and overall experience.
 
  
 ### Analysis, assumption, recommendations & Proof:
@@ -24,7 +30,4 @@ The data is a public data gotten from Maven Analytics Airlines Challenge which c
 
 ![](1.png)
           
-# Challenge 2
-## Super Bowl commercials
 
-![](superbowl.png)
