@@ -4,12 +4,12 @@ Sample datasets hand-picked by Maven instructors for practicing data analysis an
 ## Airline Passenger Satisfaction
 ## Scenario
 Customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as ther evaluation of different factors like cleanliness, comfort, service, and overall experience.
+
 ## Business Goal
 
-   * Recommend a data-driven strategy for increasing Maven Airlines' satisfaction rate, and present it in the form of a single-page report or dashboard.
-
+* Recommend a data-driven strategy for increasing Maven Airlines' satisfaction rate, and present it in the form of a single-page report or dashboard.
    
-   ### Intro
+### Intro
    
 The data is a public data gotten from Maven Analytics Airlines Challenge which consists of customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as their evaluation of different factors like cleanliness, comfort, service, and overall experience.
 
