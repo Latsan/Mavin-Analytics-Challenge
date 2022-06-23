@@ -48,6 +48,4 @@ Customer satisfaction scores from 120,000+ airline passengers, including additio
  * The facilities provided for long-distance customers should be made available for short-distance travel as well as the data shows customers going on a long-distance journey are more satisfied than customers going on a short distance journey
  * The company should find a way to reduce/eradicate arrival delay time and departure delay rime as It's a great effect on low rating scores.
 
-![](1.png)
-          
-
+![](1.png)  
