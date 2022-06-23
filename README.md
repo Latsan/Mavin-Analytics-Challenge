@@ -1,12 +1,13 @@
-# [Mavin-Analytics-Challenge-by-Abdulateef-Sanni](https://latsan.github.io/Mavin-Analytics-Challenge-by-Abdulateef-Sanni/)
+#[Mavin-Analytics-Challenge-by-Abdulateef-Sanni](https://latsan.github.io/Mavin-Analytics-Challenge-by-Abdulateef-Sanni/)
 
 ### Sample datasets hand-picked by Maven instructors for practicing data analysis and visualization skills to real-world data.
-
+----
 # Case Study 1 Super Bowl commercials
 ### Scenario
 
 * Super Bowl commercials for 10 popular brands from 2000 to 2021, including links to each and additional information about the length, estimated cost, YouTube statistics, TV viewers, and defining characteristics.
-   ### Buiness Goal
+   
+### Buiness Goal
   *  Which brand has had the most Super Bowl commercials? Do they have a distinct style?
 
   *  How have different characteristics for commercials trended across time?
