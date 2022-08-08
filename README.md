@@ -2,7 +2,22 @@
 
 ### Sample datasets hand-picked by Maven instructors for practicing data analysis and visualization skills to real-world data.
 ----
-# Case Study 1 Super Bowl commercials
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+# Super Bowl commercials Case Study 
 ### Scenario
 
 * Super Bowl commercials for 10 popular brands from 2000 to 2021, including links to each and additional information about the length, estimated cost, YouTube statistics, TV viewers, and defining characteristics.
@@ -27,7 +42,9 @@ The number of tv viewers rally up from 2000 till 2014 and dropped significantly 
 
 ![](superbowl.png)
 
-## Case Studay 2 Airline Passenger Satisfaction
+
+---
+##  Airline Passenger Satisfaction Case study
 ### Scenario
 Customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as ther evaluation of different factors like cleanliness, comfort, service, and overall experience.
 
